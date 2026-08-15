@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control Panel</string>
+    <string name="accessibility_service_description">Control Panel Accessibility Service - Used for advanced device control on your own device.</string>
+</resources>
